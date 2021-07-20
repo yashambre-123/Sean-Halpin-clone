@@ -1,0 +1,180 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.name {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+}
+.profession {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.hi {
+  color: #11999E;
+  font-size: 40px;
+  margin-top: 0px;
+}
+.skill-row1 {
+  width: 50%;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+.skill-row2 {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+.freelance {
+  width: 50%;
+  margin: auto;
+}
+h3 {
+  color: #11999E;
+}
+.footer-link {
+  color: #11999E;
+}
+.what {
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+.touch {
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+.line {
+  line-height: 2;
+}
+.profile {
+  color: #40514E;
+  width: 50%;
+  margin: auto;
+}
+.des {
+  color: #40514E;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.above-hi-image {
+  border-radius: 50%;
+  width: 25%;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.above-design-image {
+  border-radius: 50%;
+  width: 20%;
+  float: left;
+  padding-right: 30px;
+  position: relative;
+  bottom: 30px;
+}
+.above-develop-image {
+  border-radius: 50%;
+  width: 20%;
+  float: right;
+  padding-left: 30px;
+  position: relative;
+  bottom: 30px;
+}
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  margin-top: 70px;
+}
+.skills {
+  margin-top: 70px;
+}
+.contact-me {
+  margin-top: 80px;
+}
+.bottom-container {
+  margin-top: 100px;
+  background-color: #66BFBF;
+  padding-top: 90px;
+}
+.footer-link {
+  padding-top: 10px;
+  position: relative;
+  bottom: 50px;
+  display: inline-block;
+  text-decoration: none;
+  margin: 20px;
+}
+.footer-link:hover {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-size: 20%;
+  border-bottom: 0;
+  padding-bottom: .3em;
+  text-decoration: none;
+}
+.copyright {
+  position: relative;
+  bottom: 60px;
+  color: #EAF6F6;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
