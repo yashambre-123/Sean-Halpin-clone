@@ -1,1 +1,1 @@
-# Tindog-clone
+Sean Halpin Clone
